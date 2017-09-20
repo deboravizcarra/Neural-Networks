@@ -1,3 +1,4 @@
 
 Second TensorFlow Tutorial
-Tensorflow Mechanics 101
+
+TensorFlow Mechanics 101
